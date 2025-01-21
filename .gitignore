@@ -1,0 +1,10 @@
+*~
+*.pyc
+*.bak
+env
+uploads
+*.csar
+repo
+.idea
+csars
+**/.kube/
